@@ -1,5 +1,7 @@
-# telegram shop
+# telegram shop bot
 
-## bot creat t.me/botnet_master
+### Install
 
-## bio t.me/litesql
+* pip3 install -r requirements.txt
+* nano config.py
+* python3 main.py
