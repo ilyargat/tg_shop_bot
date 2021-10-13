@@ -7,4 +7,4 @@
 * python3 main.py
 
 
-#Creator: t.me/botnet_master
+# Creator: t.me/botnet_master
